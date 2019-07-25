@@ -1,6 +1,6 @@
 {
   "name": "@naturalclar/tsconfig",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "tsconfig for my projects",
   "repository": "https://github.com/Naturalclar/tsconfig.git",
   "license": "MIT",
@@ -8,8 +8,8 @@
   "files": [
     "tsconfig.json"
   ],
-  "main": "index.js",
+  "main": "tsconfig.json",
   "publishConfig": {
-    "access": true
+    "access": "public"
   }
 }
