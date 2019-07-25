@@ -1,0 +1,13 @@
+{
+  "name": "@naturalclar/tsconfig",
+  "version": "1.0.0",
+  "description": "tsconfig for my projects",
+  "license": "MIT",
+  "author": "Jesse Katsumata <jesse.katsumata@gmail.com>",
+  "files": [
+    "tsconfig.json"
+  ],
+  "publishConfig": {
+    "access": true
+  }
+}
